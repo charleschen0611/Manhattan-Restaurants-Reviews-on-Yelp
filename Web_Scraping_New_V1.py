@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[9]:
+# Author: Hongyi Chen
 
 
 from selenium import webdriver
